@@ -39,7 +39,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
-<h4 align='center'>Developed By <b><i>ABANKITA BEHERA</i></b> 👦</h4>
+<h4 align='center'>Developed By <b><i>ABANKITA BEHERA</i></b></h4>
 <p align='center'>
   <a href='www.linkedin.com/in/abankita-behera-210836227'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
