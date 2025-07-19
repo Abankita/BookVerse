@@ -16,7 +16,7 @@
 
 <div>
   <!-- <p>Add Description of the project</p> -->
-    <p>This is a simple book website that provides a detailed description of one featured book. At the bottom of the page, you can also find images of five popular books from 2024. The website offers a clean, minimal design for easy browsing.
+    <p>This is a static book website that provides a detailed description of one featured book. At the bottom of the page, you can also find images of five popular books from 2024. The website offers a clean, minimal design for easy browsing.
 
 </p>
 </div>
